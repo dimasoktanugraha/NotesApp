@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dimasdicoding25 MyNotesAppSQLite</string>
+    <string name="date">date</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="judul">judul</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="submit">submit</string>
+    <string name="hapus">hapus</string>
+</resources>
